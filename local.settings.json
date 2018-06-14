@@ -1,0 +1,29 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "PrivateGroup": "GCFSharePointGroup Private",
+    "ResourceURL": "https://graph.microsoft.com",
+    "WordDocumentName": "GCFBlankDocument.docx",
+    "WEBSITE_SLOT_NAME": "Production",
+    "ExtraPrivateGroup": "GCFSharePointGroup ExtraPrivate",
+    "spUserName": "twoconnect@gcfict.com",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=gcffunctionapps01storage;AccountKey=uK3nFmQrd/Ng5QOlsDJD5h/v/xnuQQ3pgwqavTNk59H+tCYwGOy3M58LxEcGodW8MwtHKO415VNl4A4iGJ+9Kw==",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "DocumentLibraryName": "GCFDocLibrary",
+    "ClientId": "a0fe71b3-5afe-472e-a0b8-3d53c1a82825",
+    "siteUrl": "https://gcfict.sharepoint.com/sites/GCFTestSite",
+    "TenantValue": "greenclimatefundoutlook.onmicrosoft.com",
+    "PublicGroup": "GCFSharePointGroup Public",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=gcffunctionapps01storage;AccountKey=uK3nFmQrd/Ng5QOlsDJD5h/v/xnuQQ3pgwqavTNk59H+tCYwGOy3M58LxEcGodW8MwtHKO415VNl4A4iGJ+9Kw==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "TimeZoneInfo": "US Eastern Standard Time",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=gcffunctionapps01storage;AccountKey=uK3nFmQrd/Ng5QOlsDJD5h/v/xnuQQ3pgwqavTNk59H+tCYwGOy3M58LxEcGodW8MwtHKO415VNl4A4iGJ+9Kw==",
+    "WEBSITE_CONTENTSHARE": "gcffunctionapps8dcf",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ADUserPassword": "Welcome2DevGCF!",
+    "WEBSITE_SITE_NAME": "GCFFunctionApps",
+    "spPassword": "2Connect!",
+    "ADUserName": "twoconnect@consultant.gcfund.org"
+  }
+}
